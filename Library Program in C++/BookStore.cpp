@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 5/2/24
-CPSC 1070 Project 2
 
 Code Description: Bookstore file to create the bookstore with the books ISBN, name, stock, and number of books.
 Adds customers to queue, checks them out (dequeues them), and prints the ledger of the books to an output file
