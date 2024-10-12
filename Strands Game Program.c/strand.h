@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 4/16/24
-CPSC 1070 AND 1071
 Project 1: Strands
 
 Code Description: Strand.c header file with the strand struct and function prototypes. I added some members to the
