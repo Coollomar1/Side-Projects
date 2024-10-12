@@ -1,8 +1,6 @@
 """
 Name: Omar Masri
 Date: 10/23/23
-Section: 010 Lecture
-Section: 003 Lab
 
 Code Description:
 This program will give a brief introduction to its usage, then ask two players, player X and player O,
