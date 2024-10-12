@@ -1,2 +1,2 @@
 # Side-Projects
-Python and C++ Side Projects
+Python and C/C++ Side Projects
