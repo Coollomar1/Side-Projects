@@ -5,7 +5,7 @@ Project 1: Strands
 
 Code Description: driver_main.c file to test various cases. Ensures that this code runs efficiently and has no bugs
 
-Required to pass autograder tests
+
 
 */
 
