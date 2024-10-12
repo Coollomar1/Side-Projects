@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 4/16/24
-CPSC 1070 AND 1071
 Project 1: Strands
 
 Code Description: Game.c header file. Has all the function prototypes for game.c.
