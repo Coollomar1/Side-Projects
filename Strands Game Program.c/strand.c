@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 4/16/24
-CPSC 1070 AND 1071
 Project 1: Strands
 
 Code Description: Strand.c file. Uses the prototypes included in the strand.h file. This is where we populate the struct
