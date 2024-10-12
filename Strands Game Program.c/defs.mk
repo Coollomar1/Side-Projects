@@ -1,6 +1,5 @@
 # Name: Omar Masri
 # Date: 4/16/24
-# CPSC 1070 AND 1071
 # Project 1: Strands
 
 # Code Description: Makefile for the makefile. Combines .c files into a sources variable and .h files
