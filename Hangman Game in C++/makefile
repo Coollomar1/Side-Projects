@@ -1,7 +1,5 @@
 # Name: Omar Masri
 # Date: 3/10/2024
-# CPSC 1070
-# Lab04
 
 # Code Description:
 # Makefile to compile the program into executable hangman.exe, run the program, and clean the program when we are done
