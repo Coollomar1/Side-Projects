@@ -1,8 +1,6 @@
 /* 
 Name: Omar Masri
 Date: 3/10/2024
-CPSC 1070
-Lab 04 Part C
 
 Code Description:
 Header file that imports all of the function prototypes and libraries used in the C++ main file.
