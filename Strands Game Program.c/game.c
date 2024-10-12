@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 4/16/24
-CPSC 1070 AND 1071
 Project 1: Strands
 
 Code Description: Game.c file. This file opens the data file inputted by the user, and searches for a dict file to open.
