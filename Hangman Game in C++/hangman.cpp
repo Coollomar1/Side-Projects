@@ -1,8 +1,6 @@
 /* 
 Name: Omar Masri
 Date: 3/10/2024
-CPSC 1070
-Lab 04
 
 Code Description:
 
