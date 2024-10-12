@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 4/16/24
-CPSC 1070 AND 1071
 Project 1: Strands
 
 Code Description: driver_main.c file to test various cases. Ensures that this code runs efficiently and has no bugs
