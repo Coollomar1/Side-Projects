@@ -1,7 +1,6 @@
 /*
 Name: Omar Masri
 Date: 5/2/24
-CPSC 1070 Project 2
 
 Code Description: Getter and setter functions that set the customer object data and return the data.
 Also has a default constructor for customer object
